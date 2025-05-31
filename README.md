@@ -60,7 +60,7 @@ pip install tensorflow numpy scikit-learn matplotlib
 
 ---
 
-## Example: Galaxy Classification with CNNs
+### Galaxy Classification with CNNs
 
 This example demonstrates how to build and train a simple CNN to classify galaxies using image data. For demonstration, synthetic data is used, but you can replace it with real astronomical datasets (see [Datasets](#datasets)).
 
@@ -68,7 +68,13 @@ This example demonstrates how to build and train a simple CNN to classify galaxi
 
 ---
 
-## Other Examples
+### Exoplanet Hunting in Deep Space
+
+[NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/)
+
+[Kepler labelled time series data](https://www.kaggle.com/datasets/keplersmachines/kepler-labelled-time-series-data)
+
+---
 
 ### 1. Exoplanet Detection from Light Curves
 
